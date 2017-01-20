@@ -1,5 +1,5 @@
 ## Put comments here that give an overall description of what your
-## functions are doing
+## functions are doing:
 #> These two functions makeCacheMatrix and CacheSolve are going to help us to save plenty of time 
 #and avoiding to computation from scratch over and over. 
 
